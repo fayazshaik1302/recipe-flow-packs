@@ -132,7 +132,7 @@
       "isPrebuilt": true,
       "isFavorite": false,
       "rating": 4.5,
-      "coverImagePath": "https://fayazshaik1302.github.io/recipe-flow-packs/images/indian/004.jpg",
+      "coverImagePath": "https://fayazshaik1302.github.io/recipe-flow-packs/images/indian/004.jpg?v=2",
       "tags": ["vegetarian", "spinach", "paneer", "healthy"],
       "ingredients": [
         {"name_key": "spinach", "quantity": 500, "unit_key": "grams"},
@@ -169,7 +169,7 @@
       "isPrebuilt": true,
       "isFavorite": false,
       "rating": 4.7,
-      "coverImagePath": "https://fayazshaik1302.github.io/recipe-flow-packs/images/indian/005.jpg",
+      "coverImagePath": "https://fayazshaik1302.github.io/recipe-flow-packs/images/indian/005.jpg?v=2",
       "tags": ["non-vegetarian", "grilled", "spicy", "appetizer"],
       "ingredients": [
         {"name_key": "chicken_breast", "quantity": 600, "unit_key": "grams"},
